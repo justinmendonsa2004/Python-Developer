@@ -35,3 +35,15 @@ total_sum = firstNumber * SecondNumber
 print(total_sum) """
 
 # Strings in python
+"""
+print("micro\tDegree")
+website = "MicroDegree"
+print(website)
+"""
+email = """Hello sir
+
+I want to apply for this course
+Thank You!
+"""
+
+print(email)
