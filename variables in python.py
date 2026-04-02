@@ -46,4 +46,4 @@ I want to apply for this course
 Thank You!
 """
 
-print(email)
+print(email)ju
