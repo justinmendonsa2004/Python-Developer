@@ -1,5 +1,0 @@
-print("Hello Karnataka")
-print("----")
-print("|   |")
-print("|   |")
-print("----")
