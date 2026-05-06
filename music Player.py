@@ -1,6 +1,6 @@
 import os
 
 
-def player():
+def player()
     dir = "./"
     data = ""
