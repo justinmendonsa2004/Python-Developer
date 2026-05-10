@@ -8,5 +8,5 @@ print(d["key1"])
 # del d["key2"]
 d2 = d.copy()
 
-d3 = d2.update({"key3": "shadow"})
+# d3 = d2.update({"key3": "shadow"})
 print(d)
