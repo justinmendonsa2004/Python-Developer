@@ -12,4 +12,4 @@ elif age == 18:
     else:
         print("invalid input")
 else:
-    print("Manage Hogi POGo nodu")
+    print("Manage Hogi POGo nodu"):
