@@ -1,7 +1,7 @@
 print("Press 1 for Addition")
-print("Press 1 for Subtraction")
-print("Press 1 for Multiplication")
-print("Press 1 for Division")
+print("Press 2 for Subtraction")
+print("Press 3 for Multiplication")
+print("Press 4 for Division")
 print("=========================")
 
 choice = int(input("Enter your choice \n"))

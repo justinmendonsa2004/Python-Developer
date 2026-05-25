@@ -24,7 +24,7 @@
 | `<=`     | Less than or equal    | `5 <= 3` |
 
 
-3. Assignment Operators
+3. Assignment Operators....
 
 | Operator | Example  | Same As      |
 | -------- | -------- | ------------ |
@@ -68,6 +68,5 @@
 | `~`      | NOT         |    |
 | `<<`     | Left Shift  |    |
 | `>>`     | Right Shift |    |
-
 
 """
