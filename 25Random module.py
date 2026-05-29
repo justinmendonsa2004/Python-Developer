@@ -22,4 +22,4 @@ while attempts > 0:
         # attempts = attempts -1
         attempts -= 1
     else:
-        print("you have lost the game")
+        print("you have lost the game")  #
