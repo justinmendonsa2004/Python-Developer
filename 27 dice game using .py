@@ -15,7 +15,7 @@ while True:
        while True:
            for players in range(1, nop+1):
                print("Do you want to roll the dice")
-               pc = int(input("Enter 1 to roll 0 to exit"))
+               pc = int(input("Enter 1 to roll 0 to exit"))#jhhh
                if pc == 1:
                    roll()
                elif pc == 0:
