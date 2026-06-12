@@ -5,6 +5,7 @@ def roll():
     num =random.choice(lis)
     print(num)
     
+    
 while True:   
     
     print("Do you want to play the Game")
