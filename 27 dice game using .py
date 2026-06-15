@@ -1,9 +1,10 @@
 import random
+pc = 2
 
-def roll():
+def roll(player):
     lis = [1, 2, 3, 4, 5, 6]
     num =random.choice(lis)
-    print(num)
+    print(f"player {player} You have got {num} value")
     
 while True:   
     
@@ -12,12 +13,12 @@ while True:
     if choice in "yes":
        print("How many players")
        nop = int(input("In numbers"))
-       while True:
-           for players in range(1, nop+1):
-               print("Do you want to roll the dice")
-               pc = int(input("Enter 1 to roll 0 to exit"))#jhhh
+       while pc != 0:
+           for player in range(1, nop+1):
+               print("Do you want to roll the dice player {player}")
+               pc = int(input("Enter 1 to roll 0 to exit"))
                if pc == 1:
-                   roll()
+                   roll(player)
                elif pc == 0:
                    break
                else:
