@@ -3,7 +3,7 @@ class Class1:
     pass
 
 #print(var1)
-#print(Class1.var1)#class variables
+#print(Class1.var1)#class variables.
 
 ins1 = Class1()
 ins2 = Class1()#instance variables0.
