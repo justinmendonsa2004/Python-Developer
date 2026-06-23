@@ -10,3 +10,4 @@ ins2 = Class1()#instance variables0.
 ins1.var1 ="script kiddie"
 print(ins1.var1)
 print(ins2.var1)
+
